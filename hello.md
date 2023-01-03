@@ -7,6 +7,5 @@
  - commit : 커밋
  - push : 원격저장소 젖저장
 
-
- wfwofjwowjfowjfowfjwofjwofjowfjowfjowfjw
- 
+##파일의 내용 되돌리
+특정파일의 내용을 마지막 커밋으로 
